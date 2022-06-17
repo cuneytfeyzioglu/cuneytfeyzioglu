@@ -1,14 +1,14 @@
-💫About Me :
+About Me :
 
-Hi there 👋, my name is Cüneyt
+Hi there , my name is Cüneyt
 
-👀 I’m interested in .Net Core and React Development
+I’m interested in .Net Core and React Development
 
-🔭 I’m currently working on projects to develop my skills.
+I’m currently working on projects to develop my skills.
 
-🌱 I’m currently learning React
+I’m currently learning React
 
-📫 How to reach me: cuneytfeyzioglu54@gmail.com
+How to reach me: cuneytfeyzioglu54@gmail.com
 
 
 
